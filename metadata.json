@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Voice AI",
+  "description": "Voice-enabled Android AI Assistant powered by Google Gemini with speech-to-text, text-to-speech, app launching (WhatsApp, YouTube, TikTok, Easypaisa), notification reader, and Python Kivy/BeeWare exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

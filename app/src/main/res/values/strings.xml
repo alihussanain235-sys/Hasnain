@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gemini Voice AI</string>
+    <string name="assistant_title">Gemini Voice Assistant</string>
+    <string name="listening_hint">Tap mic or say a command...</string>
+    <string name="listening_status">Listening to your voice…</string>
+    <string name="thinking_status">Gemini is processing…</string>
+    <string name="speaking_status">Speaking response…</string>
+    <string name="mic_button_desc">Activate microphone for voice input</string>
+    <string name="stop_speech_desc">Stop speaking</string>
+    <string name="open_settings_desc">Open assistant settings</string>
+    <string name="open_python_desc">View and export Python script</string>
+    <string name="notification_service_label">Gemini Assistant Notification Listener</string>
+</resources>
